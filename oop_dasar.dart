@@ -26,7 +26,7 @@ class Person {
 main() {
   Person person = new Person();
 
-  person.setName("Bambang");
+  person.setName("Jodhi");
   person.setAddress("Medan");
 
   print("Nama : ${person.getName()} ");
